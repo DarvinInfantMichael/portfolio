@@ -32,7 +32,8 @@ const projects = [
     tech: ['React', 'MongoDB', 'JavaScript', 'HTML', 'CSS'],
     features: ['Exam registration', 'Exam viewing', 'User management', 'Exam scheduling', 'Admin functionality'],
     styleClass: 'from-emerald-500/20 to-cyan-500/20 border-cyan-500/30',
-    img: examregImg
+    img: examregImg,
+    demoUrl: 'https://exam-system-frontend-djmm.vercel.app/'
   }
 ];
 
