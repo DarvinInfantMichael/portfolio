@@ -23,7 +23,8 @@ const projects = [
     tech: ['React', 'Node.js', 'Express.js', 'MongoDB', 'RAG AI'],
     features: ['Academic support', 'Skill development', 'Placement preparation', 'REST APIs', 'MongoDB', 'Personalized AI learning insights'],
     styleClass: 'from-blue-600/20 to-purple-600/20 border-purple-500/30',
-    img: skillsageImg
+    img: skillsageImg,
+    demoUrl: 'https://skill-age-ai.vercel.app/'
   },
   {
     id: 'examreg',
